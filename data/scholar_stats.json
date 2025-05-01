@@ -1,124 +1,132 @@
 {
   "profile": {
-    "name": "Emmanuelle Walkowiak",
-    "affiliation": "RMIT",
+    "name": "Enquête COI",
+    "affiliation": "Centre d'Etudes de l'Emploi et du Travail",
     "interests": [
-      "Innovation",
-      "Digital transformation",
-      "Labour",
-      "Organisation",
-      "Social Economics"
+      "Changements Organisationels et Informatisation"
     ]
   },
   "metrics": {
     "citation_stats": {
       "Citations": {
-        "all": "854",
-        "since_2020": "394"
+        "all": "7361",
+        "since_2020": "2518"
       },
       "h-index": {
-        "all": "20",
-        "since_2020": "11"
+        "all": "38",
+        "since_2020": "22"
       },
       "i10-index": {
-        "all": "28",
-        "since_2020": "12"
+        "all": "129",
+        "since_2020": "47"
       }
     },
     "citation_history": [
       {
+        "year": "2000",
+        "citations": 30
+      },
+      {
+        "year": "2001",
+        "citations": 48
+      },
+      {
+        "year": "2002",
+        "citations": 48
+      },
+      {
         "year": "2003",
-        "citations": 5
+        "citations": 84
       },
       {
         "year": "2004",
-        "citations": 9
+        "citations": 90
       },
       {
         "year": "2005",
-        "citations": 14
+        "citations": 128
       },
       {
         "year": "2006",
-        "citations": 16
+        "citations": 159
       },
       {
         "year": "2007",
-        "citations": 29
+        "citations": 169
       },
       {
         "year": "2008",
-        "citations": 23
+        "citations": 194
       },
       {
         "year": "2009",
-        "citations": 52
+        "citations": 194
       },
       {
         "year": "2010",
-        "citations": 46
+        "citations": 236
       },
       {
         "year": "2011",
-        "citations": 31
+        "citations": 230
       },
       {
         "year": "2012",
-        "citations": 38
+        "citations": 262
       },
       {
         "year": "2013",
-        "citations": 27
+        "citations": 312
       },
       {
         "year": "2014",
-        "citations": 30
+        "citations": 362
       },
       {
         "year": "2015",
-        "citations": 24
+        "citations": 386
       },
       {
         "year": "2016",
-        "citations": 30
+        "citations": 410
       },
       {
         "year": "2017",
-        "citations": 28
+        "citations": 444
       },
       {
         "year": "2018",
-        "citations": 28
+        "citations": 415
       },
       {
         "year": "2019",
-        "citations": 14
+        "citations": 472
       },
       {
         "year": "2020",
-        "citations": 28
+        "citations": 469
       },
       {
         "year": "2021",
-        "citations": 33
+        "citations": 465
       },
       {
         "year": "2022",
-        "citations": 40
+        "citations": 481
       },
       {
         "year": "2023",
-        "citations": 101
+        "citations": 476
       },
       {
         "year": "2024",
-        "citations": 135
+        "citations": 472
       },
       {
         "year": "2025",
-        "citations": 56
+        "citations": 152
       }
     ]
   },
-  "updated_at": "2025-05-01 08:47:03"
+  "updated_at": "2025-05-01 10:00:38"
 }

@@ -34,7 +34,7 @@ jobs:
           PROXY_PASSWORD: ${{ secrets.PROXY_PASSWORD }}
           PROXY_SERVER:   ${{ secrets.PROXY_SERVER }}
           PROXY_PORT:     ${{ secrets.PROXY_PORT }}
-          SCHOLAR_ID:     ${{ secrets.SCHOLAR_ID }}
+          SCHOLAR_ID:     ${{ secrets.SCHOLAR_IDCOI }}
         run: python scripts/get_scholar_stats.py
 
       - name: Debug file
